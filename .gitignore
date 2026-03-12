@@ -1,0 +1,9 @@
+model/
+*.zip
+venv/
+__pycache__/
+.envmodel/
+*.zip
+venv/
+__pycache__/
+.env
